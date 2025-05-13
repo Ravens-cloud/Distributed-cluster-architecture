@@ -1,0 +1,5 @@
+@echo off
+rem 创建目录结构
+mkdir src\main\java\core
+mkdir src\main\java\master
+mkdir src\main
