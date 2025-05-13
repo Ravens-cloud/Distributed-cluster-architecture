@@ -51,7 +51,7 @@ MapReduceCluster/
 ### 1. 构建项目
 
 ```bash
-mvn clean compil
+mvn clean package
 ```
 ### 2. 运行项目
 
